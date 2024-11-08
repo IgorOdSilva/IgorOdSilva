@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<p align="left">Aos 19 anos, amo profundamente o que faço e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. No momento, sou estagiário no Itaú.</p>&nbsp;
+<p align="left">Aos 20 anos, amo profundamente o que faço e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. No momento, sou estagiário no Itaú.</p>&nbsp;
 
 #### - 💻 Desenvolvedor FullStack
 #### - 🎓 Cursando ADS na FATEC Ferraz de Vasconcelos
